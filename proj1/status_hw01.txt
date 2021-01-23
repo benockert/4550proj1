@@ -1,0 +1,30 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Ben Ockert
+
+2. Which VPS & domain providers did you choose?
+VPS - vultr
+Domain - namecheap
+
+3. What domain name did you register?
+benockert.site
+
+4. What's the URL of your Github repository for this assignment?
+github.com/benockert/cs4550
+
+5. Which parts of this assignment did you have trouble with, if any?
+Getting a domain took longer than expected. I tried to use Gandi but their payment system was slow, so I switched to namecheap and it was luckily much faster. Then getting the html files to display and be publically accessible took a little while, but I eventually got it.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
