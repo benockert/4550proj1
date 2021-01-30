@@ -24,6 +24,7 @@ I am comfortable doing the javascript required for the assignments, but I know I
 
 8. Do all of your HTML pages pass the W3C HTML validator?
 (https://validator.w3.org/)
+Yes
 
 
 9. Which parts of this assignment did you have trouble with, if any?
