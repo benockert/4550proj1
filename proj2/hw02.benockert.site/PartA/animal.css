@@ -1,0 +1,65 @@
+* {
+	font-family: "Verdana", "Monaco", "Arial";
+}
+
+body {
+	background-image: url("/PartA/giraffe_safari.jpg");
+
+}
+
+h2 {
+	font-size: 50px;
+}
+
+h3 {
+	font-size: 25px;
+}
+
+p {
+	color: white;
+}
+
+a {
+	color: bisque;
+}
+
+/*
+ * nth-child learned from w3schools.com
+ */
+span:nth-child(1) {
+	color: antiquewhite;
+}
+span:nth-child(2) {
+	color: burlywood;
+}
+span:nth-child(3) {
+	color: chocolate;
+}
+span:nth-child(4) {
+	color: brown;
+}
+span:nth-child(5) {
+	color: sienna;
+}
+span:nth-child(6) {
+	color: sandybrown;
+}
+span:nth-child(7) {
+	color: tan;
+}
+
+table, th, td {
+	border: 1px solid white;
+}
+
+th, td {
+	padding: 10px;
+	text-align: center;
+	color: white;
+}
+
+.imagesource {
+	position: fixed;
+	bottom: 5px;
+	right: 10px;
+}

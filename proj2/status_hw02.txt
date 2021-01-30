@@ -1,0 +1,41 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Ben Ockert
+
+2. What hostname did you deploy to?
+hw02.benockert.site
+
+3. What's the link to your repository on github with your code?
+https://github.com/benockert/cs4550
+
+4. How many HTML / CSS tutorial exercises did you do?
+10-20 of each
+
+5. How comfortable do you feel with HTML and CSS now?
+Very comfortable with CSS, pretty comfortable with html
+
+6. How many JS tutorial exercises did you do?
+~10
+
+7. How comfortable do you feel with JS now?
+I am comfortable doing the javascript required for the assignments, but I know I still have a lot to learn.
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+
+
+9. Which parts of this assignment did you have trouble with, if any?
+The calculator was definitely the hardest part, and there was a lot of logic that I didn't expect to have to implement at first.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8

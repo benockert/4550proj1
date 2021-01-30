@@ -1,0 +1,14 @@
+server {
+	listen 80;
+	listen [::]:80;
+
+	root /home/ben/www/hw02.benockert.site;
+
+	index index.html;
+
+	server_name hw02.benockert.site;
+
+	location / {
+		try_files $uri $uri/ =404;
+	}
+}
