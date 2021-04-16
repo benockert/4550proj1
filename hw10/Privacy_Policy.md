@@ -117,17 +117,17 @@ party require authentication with a valid Spotify account. During the
 authorization process, SpotifyParty requests access to several scopes
 surround a user's account that provide access to the following:
 
-- read data from a user's playlists, both public and private view a
-- user's active Spotify device IDs for directing playback requests
+- read data from a user's playlists, both public and private
+- view a user's active Spotify device IDs for directing playback
+requests
 - control a user's playback functionality, specifically play, pause,
-- skip, and adding to the playback queue search the Spotify library on
-behalf of the user
+skip, and adding to the playback queue
+- search the Spotify library on behalf of the user
 
 The Spotify credentials of SpotifyParty's users are handled directly
 via Spotify's authorization flow and are not seen, nor stored, by
 SpotifyParty itself. *If, and only if, the user approves our requested
 scopes, the user-specific information stored by SpotifyParty is:*
-
 
 1) An access token provided to us by Spotify during the authorization
 process, which we store and use in every subsequent request to
