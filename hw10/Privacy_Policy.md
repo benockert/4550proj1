@@ -121,7 +121,7 @@ surround a user's account that provide access to the following:
 - user's active Spotify device IDs for directing playback requests
 - control a user's playback functionality, specifically play, pause,
 - skip, and adding to the playback queue search the Spotify library on
-- behalf of the user
+behalf of the user
 
 The Spotify credentials of SpotifyParty's users are handled directly
 via Spotify's authorization flow and are not seen, nor stored, by
