@@ -122,9 +122,9 @@ why).
   user upgrades to a premium account. I mentioned that we use this
   data only to make improvements to our app and to see what our app is
   being used for. I also mention clearly that these forms are
-  optional. While we appreciate users who provide this information, we
-  chose not not to require it out of respect for our user's right to
-  privacy.
+  optional and the user surveys are anonymous. While we appreciate
+  users who provide this information, we chose not not to require it
+  out of respect for our user's right to privacy.
 
   Additional considerations:
 
