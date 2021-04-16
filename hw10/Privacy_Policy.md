@@ -79,7 +79,6 @@ during the initial upgrade of their account whether or not to not
 store credit card information. Furthermore, users can request to have
 their cards on file deleted at any time.
 
--  
 #### Contact Information
 
 The only contact information collected by SpotifyParty is your name
